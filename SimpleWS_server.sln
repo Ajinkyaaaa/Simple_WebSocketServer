@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWS_server", "SimpleWS_server\SimpleWS_server.csproj", "{AC098CED-3218-451D-A6AF-4D84B9764AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS_client", "WS_client\WS_client.csproj", "{E96651A2-AB76-4B18-AA21-32A2F3035588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC098CED-3218-451D-A6AF-4D84B9764AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC098CED-3218-451D-A6AF-4D84B9764AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC098CED-3218-451D-A6AF-4D84B9764AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC098CED-3218-451D-A6AF-4D84B9764AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96651A2-AB76-4B18-AA21-32A2F3035588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96651A2-AB76-4B18-AA21-32A2F3035588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96651A2-AB76-4B18-AA21-32A2F3035588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96651A2-AB76-4B18-AA21-32A2F3035588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {612B8E3F-9394-427C-A83D-6848BB3F7E22}
+	EndGlobalSection
+EndGlobal
